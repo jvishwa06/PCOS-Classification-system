@@ -15,8 +15,8 @@ This project aims to develop an AI-driven classification system for Polycystic O
 4. Run the application: `python main.py`
 
 ## Usage
-1. Input patient data including hormonal levels, ultrasound results, and clinical symptoms.
-2. Click on the "Classify" button to obtain the PCOS classification result.
+1. Input ultrasound-scn image.
+2. Click on the "Submit" button to obtain the PCOS classification result.
 3. Review the classification result along with any additional insights provided.
 
 ## Contributing
@@ -26,7 +26,7 @@ Contributions are welcome! If you have suggestions for improvements or would lik
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
-- This project utilizes machine learning algorithms implemented in the scikit-learn library.
+- This project utilizes Convolutional Neural Network and  implemented in the tensorflow framework.
 - Ultrasound image processing is implemented using OpenCV.
 - We thank all contributors to this project for their valuable input and feedback.
 
