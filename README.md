@@ -9,8 +9,8 @@ This project aims to develop an AI-driven classification system for Polycystic O
 - Offers insights into the factors contributing to PCOS classification to aid in personalized treatment strategies.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/jvishwa06/pcos-classification-system.git`
-2. Change directory: `cd pcos-classification-system`
+1. Clone the repository: `git clone https://github.com/jvishwa06/PCOS-Classification-system.git`
+2. Change directory: `cd PCOS-Classification-system`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run the application: `python main.py`
 
