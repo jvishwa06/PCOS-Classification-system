@@ -12,7 +12,7 @@ This project aims to develop an AI-driven classification system for Polycystic O
 1. Clone the repository: `git clone https://github.com/jvishwa06/PCOS-Classification-system.git`
 2. Change directory: `cd PCOS-Classification-system`
 3. Install dependencies: `pip install -r requirements.txt`
-4. Run the application: `python main.py`
+4. Run the application: `streamlit run main.py`
 
 ## Usage
 1. Input ultrasound-scn image.
